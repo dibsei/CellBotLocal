@@ -9,8 +9,8 @@ A modular Streamlit-based LLM app for:
 
 ### 📁 Project Structure
 CellBot/
-├── app.py                       # Main Streamlit app
-├── requirements.txt            # Project dependencies
+  ├── app.py                       # Main Streamlit app
+  ├── requirements.txt            # Project dependencies
 ├── README.md                   # Project documentation (add this)
 ├── .env                        # Environment variables (if any)
 
